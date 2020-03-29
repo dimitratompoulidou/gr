@@ -8,6 +8,6 @@ license_text: Courtesy of wikimedia
 categories: 
   - archetypes 
   - input-device 
-  tags: 
-    - multimedia-keyboard 
+tags: 
+  - multimedia-keyboard 
 --- 
